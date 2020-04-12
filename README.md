@@ -46,5 +46,6 @@ Para esse desafio temos os seguintes testes:
 
 - **4º passo**: Para rodar os testes automatizados execute o comando `yarn test` no seu terminal, e ele irá te retornar o resultado dos testes das rotas.
 
+---
 
 Feito com 💜 by Tiago Pereira :wave: [Me encontre no Linkedin!](https://www.linkedin.com/in/sipereira/)
